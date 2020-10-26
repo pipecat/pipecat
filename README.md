@@ -16,5 +16,3 @@ Here are some ideas to get you started:
 -->
 ![Pipecat's github stats](https://github-readme-stats.vercel.app/api?username=pipecat&show_icons=true&theme=buefy)</br>
 ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pipecat)</br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
-
